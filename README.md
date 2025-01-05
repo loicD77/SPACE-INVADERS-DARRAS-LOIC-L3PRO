@@ -18,6 +18,6 @@ Voici quelques visuels du jeu :
 ## Fonctionnalités
 
 - Gestion des aliens, projectiles, et du joueur.
-- Effets sonores et visuels immersifs.
+- Effets sonores et visuels immersifs (J'ai un peu de mal encore avec le texte sur l'interface j'avoue).
 - Système de score et de progression.
 
