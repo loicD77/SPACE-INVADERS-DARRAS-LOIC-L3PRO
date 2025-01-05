@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="gluegen-rt">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/jogamp-all-platforms-master/jogamp-all-platforms-master/jar/gluegen-rt.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/TRUCDEOUF/nativewindow-natives-windows-amd64.jar!/" />
+      <root url="file://$USER_HOME$/Downloads/lwjgl-release-3.3.5-custom (1)" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/Downloads/lwjgl-release-3.3.5-custom (1)" recursive="false" />
+  </library>
+</component>
