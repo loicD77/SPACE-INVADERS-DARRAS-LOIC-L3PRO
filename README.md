@@ -7,13 +7,19 @@ Bienvenue dans le projet **Space Invaders** développé par Loïc Darras. Ce pro
 Voici quelques visuels du jeu :
 
 ### Image 1
-![Loïc Final 1](https://github.com/loicD77/SPACE-INVADERS-DARRAS-LOIC-L3PRO/raw/main/res/images/loicfinal1.png)
+![Loïc Final 1](https://github.com/loicD77/SPACE-INVADERS-DARRAS-LOIC-L3PRO/blob/main/res/images/loicfinal1.png)
 
 ### Image 2
-![Loïc Final 2](https://github.com/loicD77/SPACE-INVADERS-DARRAS-LOIC-L3PRO/raw/main/res/images/loicfinal2.png)
+![Loïc Final 2](https://github.com/loicD77/SPACE-INVADERS-DARRAS-LOIC-L3PRO/blob/main/res/images/loicfinal2.png)
 
 ### Image 3
-![Loïc Final 3](https://github.com/loicD77/SPACE-INVADERS-DARRAS-LOIC-L3PRO/raw/main/res/images/loicfinal3.png)
+![Loïc Final 3](https://github.com/loicD77/SPACE-INVADERS-DARRAS-LOIC-L3PRO/blob/main/res/images/loicfinal3.png)
+
+### Image 4
+![Loïc Final 4](https://github.com/loicD77/SPACE-INVADERS-DARRAS-LOIC-L3PRO/blob/main/res/images/loicfinal4.png)
+
+### Image 5
+![Loïc Final 5](https://github.com/loicD77/SPACE-INVADERS-DARRAS-LOIC-L3PRO/blob/main/res/images/loicfinal5.png)
 
 ## Fonctionnalités
 
